@@ -10,9 +10,14 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min";
 import "./assets/index.css";
 import reportWebVitals from "./reportWebVitals";
+import Home from "./Home";
 import Busqueda from "./busqueda";
 
 const router = createBrowserRouter([
+  {
+    path: "home",
+    element: <Home />,
+  },
   {
     path: "buscar",
     element: <Busqueda />,
