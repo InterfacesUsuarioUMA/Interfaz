@@ -1,13 +1,28 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import Busqueda from './busqueda.js';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import {
+  BrowserRouter as Router,
+  Route,
+  createBrowserRouter,
+  RouterProvider,
+} from "react-router-dom";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.bundle.min";
+import "./assets/index.css";
+import reportWebVitals from "./reportWebVitals";
+import Busqueda from "./busqueda";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const router = createBrowserRouter([
+  {
+    path: "buscar",
+    element: <Busqueda />,
+  },
+]);
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <Busqueda />
+    <RouterProvider router={router} />
   </React.StrictMode>
 );
 
