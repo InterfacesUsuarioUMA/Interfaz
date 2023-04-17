@@ -4,19 +4,24 @@ import user from "../assets/user.png";
 
 export default function Headerbar() {
   return (
-    <header className="p-3">
+    <header className="p-3 border-bottom">
       <div className="container-fluid">
         <div className="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
           <a href="home" className="navbar-brand">
             <img src={logo} alt="Livroo" width={64} height={32} />
           </a>
-          <ul className="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-            <li>
-              <a href="buscar" className="nav-link px-2 link-dark">
-                Search
-              </a>
-            </li>
-          </ul>
+          <div className="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0" />
+          <form
+            className="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3"
+            role="search"
+          >
+            <input
+              type="search"
+              className="form-control"
+              placeholder="Search..."
+              aria-label="Search"
+            />
+          </form>
           <div className="dropdown text-end">
             <a
               href="#"
