@@ -12,6 +12,7 @@ import "./assets/index.css";
 import reportWebVitals from "./reportWebVitals";
 import Home from "./Home";
 import Busqueda from "./busqueda";
+import Profile from "./Profile";
 
 const router = createBrowserRouter([
   {
@@ -21,6 +22,10 @@ const router = createBrowserRouter([
   {
     path: "buscar",
     element: <Busqueda />,
+  },
+  {
+    path: "profile",
+    element: <Profile />,
   },
 ]);
 
