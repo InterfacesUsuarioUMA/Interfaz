@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Livroo/static/css/main.1443c398.css",
-    "main.js": "/Livroo/static/js/main.afbc4e54.js",
+    "main.js": "/Livroo/static/js/main.c7833f0d.js",
     "static/js/787.34feb1c1.chunk.js": "/Livroo/static/js/787.34feb1c1.chunk.js",
     "static/media/register_login.jpg": "/Livroo/static/media/register_login.76a8d1300019c77a4ab8.jpg",
     "static/media/busqueda.jpg": "/Livroo/static/media/busqueda.e03e61ae490d1bb453ab.jpg",
@@ -18,11 +18,11 @@
     "static/media/user.png": "/Livroo/static/media/user.a6143582309785dca610.png",
     "index.html": "/Livroo/index.html",
     "main.1443c398.css.map": "/Livroo/static/css/main.1443c398.css.map",
-    "main.afbc4e54.js.map": "/Livroo/static/js/main.afbc4e54.js.map",
+    "main.c7833f0d.js.map": "/Livroo/static/js/main.c7833f0d.js.map",
     "787.34feb1c1.chunk.js.map": "/Livroo/static/js/787.34feb1c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1443c398.css",
-    "static/js/main.afbc4e54.js"
+    "static/js/main.c7833f0d.js"
   ]
 }
