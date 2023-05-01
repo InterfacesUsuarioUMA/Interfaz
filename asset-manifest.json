@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Livroo/static/css/main.1443c398.css",
+    "main.js": "/Livroo/static/js/main.60ca4db7.js",
+    "static/js/787.34feb1c1.chunk.js": "/Livroo/static/js/787.34feb1c1.chunk.js",
+    "static/media/register_login.jpg": "/Livroo/static/media/register_login.76a8d1300019c77a4ab8.jpg",
+    "static/media/busqueda.jpg": "/Livroo/static/media/busqueda.e03e61ae490d1bb453ab.jpg",
+    "static/media/suzanne.png": "/Livroo/static/media/suzanne.01585d736f9106fc0551.png",
+    "static/media/carousel2.png": "/Livroo/static/media/carousel2.702e05bf9fc7e6827fc0.png",
+    "static/media/carousel3.png": "/Livroo/static/media/carousel3.0ca457a0b56cbd79a2c0.png",
+    "static/media/carousel1.png": "/Livroo/static/media/carousel1.1ba2793126cbd52c8194.png",
+    "static/media/Livroo.png": "/Livroo/static/media/Livroo.014002f2bcb663d30935.png",
+    "static/media/juegos1.pdf": "/Livroo/static/media/juegos1.291691b708f59d0fbe50.pdf",
+    "static/media/juegos2.pdf": "/Livroo/static/media/juegos2.c6c3a1fb4e6e489a846f.pdf",
+    "static/media/juegos3.pdf": "/Livroo/static/media/juegos3.25096f2fbd7a8353ee73.pdf",
+    "static/media/libro1.jpg": "/Livroo/static/media/libro1.5e3fa403a9636ed04b02.jpg",
+    "static/media/libro2.jpg": "/Livroo/static/media/libro2.c43cb78636d6cacc911f.jpg",
+    "static/media/user.png": "/Livroo/static/media/user.a6143582309785dca610.png",
+    "index.html": "/Livroo/index.html",
+    "main.1443c398.css.map": "/Livroo/static/css/main.1443c398.css.map",
+    "main.60ca4db7.js.map": "/Livroo/static/js/main.60ca4db7.js.map",
+    "787.34feb1c1.chunk.js.map": "/Livroo/static/js/787.34feb1c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1443c398.css",
+    "static/js/main.60ca4db7.js"
+  ]
+}
