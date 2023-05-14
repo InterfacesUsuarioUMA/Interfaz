@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Livroo/static/css/main.a3aba323.css",
-    "main.js": "/Livroo/static/js/main.0262f4c6.js",
+    "main.css": "/Livroo/static/css/main.ba3f9519.css",
+    "main.js": "/Livroo/static/js/main.a6e68c25.js",
     "static/media/register_login.jpg": "/Livroo/static/media/register_login.76a8d1300019c77a4ab8.jpg",
     "static/media/busqueda.jpg": "/Livroo/static/media/busqueda.e03e61ae490d1bb453ab.jpg",
     "static/media/suzanne.png": "/Livroo/static/media/suzanne.01585d736f9106fc0551.png",
@@ -17,11 +17,11 @@
     "static/media/libro1.jpg": "/Livroo/static/media/libro1.5e3fa403a9636ed04b02.jpg",
     "static/media/libro2.jpg": "/Livroo/static/media/libro2.c43cb78636d6cacc911f.jpg",
     "index.html": "/Livroo/index.html",
-    "main.a3aba323.css.map": "/Livroo/static/css/main.a3aba323.css.map",
-    "main.0262f4c6.js.map": "/Livroo/static/js/main.0262f4c6.js.map"
+    "main.ba3f9519.css.map": "/Livroo/static/css/main.ba3f9519.css.map",
+    "main.a6e68c25.js.map": "/Livroo/static/js/main.a6e68c25.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3aba323.css",
-    "static/js/main.0262f4c6.js"
+    "static/css/main.ba3f9519.css",
+    "static/js/main.a6e68c25.js"
   ]
 }
